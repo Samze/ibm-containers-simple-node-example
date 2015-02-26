@@ -1,4 +1,9 @@
 FROM registry-ice.ng.bluemix.net/ibmnode:latest
-ADD helloworld.js helloworld.js
+
+ADD . /node
+WORKDIR /node
+RUN npm install
+
 EXPOSE 8080
-ENTRYPOINT ["node", "helloworld.js"]
+
+ENTRYPOINT ["node", "/node/index.js"]

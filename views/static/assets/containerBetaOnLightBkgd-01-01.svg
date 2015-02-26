@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<rect x="30.2" y="16.5" fill="#85C242" width="70" height="70"/>
+			<rect x="30.2" y="95" fill="#03ABCD" width="70" height="70"/>
+			<rect x="108.8" y="16.5" fill="#03ABCD" width="70" height="70"/>
+			<rect x="108.8" y="95" fill="#06446A" width="70" height="70"/>
+			<g>
+				<rect x="41.2" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="85.8" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="70.9" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="56" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+			</g>
+			<g>
+				<rect x="119.4" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="164" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="149.1" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="134.3" y="26" fill="#FFFFFF" width="4.2" height="50.9"/>
+			</g>
+			<g>
+				<rect x="41.2" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="85.8" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="70.9" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="56" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+			</g>
+			<g>
+				<rect x="119.4" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="164" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="149.1" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+				<rect x="134.3" y="104.6" fill="#FFFFFF" width="4.2" height="50.9"/>
+			</g>
+		</g>
+		<polygon fill="#85C242" points="200,183.3 9.6,183.3 9.6,144.7 19.6,144.7 19.6,173.4 190,173.4 190,144.7 200,144.7 		"/>
+	</g>
+	<g>
+		<rect y="62.4" fill="#3C4C55" width="126.9" height="52.2"/>
+		<polygon fill="#161E23" points="30.2,127.7 10,127.7 0,114.6 30.2,114.6 		"/>
+		<g>
+			<path fill="#FFFFFF" d="M27.6,78h9c4.3,0,6.9,0.9,6.9,5c0,2.4-1.5,4.6-4,5V88c2,0.6,3.2,2.3,3.2,4.3c0,4.6-3.9,7-8.2,7H23.1
+				L27.6,78z M28.4,95.7h5.9c2.1,0,3.7-1.2,3.7-3.4c0-2.2-2-2.4-3.7-2.4h-4.6L28.4,95.7z M30.3,86.7h5.3c1.7,0,3.2-0.9,3.2-2.8
+				c0-1.6-1-2.2-2.5-2.2h-5L30.3,86.7z"/>
+			<path fill="#FFFFFF" d="M48.3,78h16.3L63.7,82H52.2l-1,4.6h10.7l-0.8,3.6H50.4l-1.1,5.2h11.8l-0.8,3.9H43.8L48.3,78z"/>
+			<path fill="#FFFFFF" d="M72.4,82h-6.7l0.8-3.9h17.8L83.5,82h-6.4l-3.6,17.4h-4.7L72.4,82z"/>
+			<path fill="#FFFFFF" d="M89.5,78h4.8l3.6,21.3h-4.7l-0.7-4.7h-8l-2.7,4.7h-5L89.5,78z M86.4,91.1h5.7l-1-8.5H91L86.4,91.1z"/>
+		</g>
+	</g>
+</g>
+</svg>
