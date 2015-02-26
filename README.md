@@ -4,6 +4,8 @@ A simple node image that can be deployed on the IBM Container Cloud.
 
 ## Before you start
 
+You need to signup and register for [IBM Containers](http://www.bluemix.net).
+
 You will need a local environment for running docker commands. 
 You need  to download the [IBM Containers Extension](http://www.ng.bluemix.net/docs/#starters/index-gentopic3.html#container_install) and its prerequisites. 
 
@@ -92,4 +94,7 @@ ice ip bind 129.41.252.201 simplenode_1
 
 ## Access your container
 
-Point your browser at http://<ip_address>:8080
+Point your browser at 
+```
+http://<ip_address>:8080
+```
