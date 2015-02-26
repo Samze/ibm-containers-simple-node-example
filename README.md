@@ -92,4 +92,7 @@ ice ip bind 129.41.252.201 simplenode_1
 
 ## Access your container
 
-Point your browser at http://<ip_address>:8080
+Point your browser at 
+```
+http://<ip_address>:8080
+```
