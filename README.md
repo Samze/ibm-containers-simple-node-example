@@ -4,6 +4,8 @@ A simple node image that can be deployed on the IBM Container Cloud.
 
 ## Before you start
 
+You need to signup and register for [IBM Containers](http://www.bluemix.net).
+
 You will need a local environment for running docker commands. 
 You need  to download the [IBM Containers Extension](http://www.ng.bluemix.net/docs/#starters/index-gentopic3.html#container_install) and its prerequisites. 
 
